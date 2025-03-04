@@ -1,2 +1,2 @@
 # Waste
-The code and the datasets will be updated later.
+The code and dataset will be uploaded later.
